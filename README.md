@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuzoSolo
 - 👀 I’m interested in UI designs
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Vue
 - 📫 How to reach me muhuzhanguzel@gmail.com or HuzoSolo#4577 on Discord
 - 🤝 I need ur advices for my learning adventure, please help me about it!
 
